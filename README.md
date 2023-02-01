@@ -1,2 +1,3 @@
 # Bank Management System
-A virtual event platform that allows users to host and attend virtual conferences, webinars and networking events.
+The main objective of the project is to develop a secure and
+user-friendly system for managing customer accounts and transactions for a bank.
