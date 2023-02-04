@@ -1,4 +1,0 @@
-In This File We have :
-1. Class Diagram
-2. Usecase Diagram
-3. sequential Diagram
