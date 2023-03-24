@@ -1,0 +1,54 @@
+.contactFormContainer{
+    width: 40%;
+    border: 3px solid #000;
+    margin: auto;
+    color: #2a2a2a;
+    border-radius: .7rem;
+    background-color: #fff;
+    padding: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.contactForm{
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.contactInput{
+    height: 3rem;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    border: 1px solid #2a2a2a;
+}
+.contactText{
+    height : 5rem;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    border: 1px solid #2a2a2a;
+}
+
+.formButton{
+    display: inline;
+    background-color: #000;
+    color: #fff;
+}
+
+@media screen and (max-width: 500px) {
+    .formContainer{
+        margin: 4rem 2rem;
+        color: #2a2a2a;
+    }
+    .formContainer form{
+        padding-top: 2rem;
+        width: 90%;
+    }
+}
