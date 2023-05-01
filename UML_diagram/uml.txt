@@ -1,4 +1,0 @@
-In this section we have all 3 uml diagrams
-1. Class Diagram
-2.Use case Diagram
-3.Sequence Diagram
